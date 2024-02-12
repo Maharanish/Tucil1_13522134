@@ -112,6 +112,7 @@ if save_file == "y":
             for token in opt_path:
                 f.write(f"{token.column + 1}, {token.row + 1}\n") #Formatnya : kolom, baris
         else :
+            f.write("Bobot Hadiah Optimal : " + str(opt_reward) + "\n")
             f.write("Tidak ada solusi yang memenuhi")
         f.write("\n")
         f.write("\n")

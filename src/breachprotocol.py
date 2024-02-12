@@ -71,6 +71,7 @@ def print_solution(opt_reward, opt_path):
         string_output += f"Isi dari Buffer Optimal : {buffer_content.strip()}\n"
         string_output += f"Koordinat dari Setiap Token :\n{coordinate_content.strip()}"
     else:
+        string_output += f"Bobot Hadiah Optimal : {opt_reward}\n"
         string_output += "Tidak ada solusi yang memenuhi\n"
 
     print(string_output)
