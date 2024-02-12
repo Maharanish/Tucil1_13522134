@@ -1,0 +1,3 @@
+Tidak ada solusi yang memenuhi
+
+Waktu eksekusi program: 27.006864547729492 ms

@@ -1,0 +1,11 @@
+Bobot Hadiah Optimal : 61
+Isi dari Buffer Optimal : BC DA CD AB BC
+Koordinat dari Setiap Token : 
+1, 1
+1, 2
+4, 2
+4, 1
+2, 1
+
+
+Waktu eksekusi program: 3.9985179901123047 ms

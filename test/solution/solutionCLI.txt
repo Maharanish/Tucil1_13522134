@@ -1,0 +1,10 @@
+Bobot Hadiah Optimal : 99
+Isi dari Buffer Optimal : 44 11 55 33
+Koordinat dari Setiap Token : 
+1, 1
+1, 2
+8, 2
+8, 4
+
+
+Waktu eksekusi program: 10.072469711303711 ms

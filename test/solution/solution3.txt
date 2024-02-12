@@ -1,0 +1,12 @@
+Bobot Hadiah Optimal : 147
+Isi dari Buffer Optimal : ST UV KL ST QR OP
+Koordinat dari Setiap Token : 
+1, 1
+1, 2
+2, 2
+2, 5
+7, 5
+7, 6
+
+
+Waktu eksekusi program: 420.2098846435547 ms
