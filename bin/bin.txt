@@ -1,0 +1,1 @@
+bin dikosongkan karena tidak ada file yang executable
