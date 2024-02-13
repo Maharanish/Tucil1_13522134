@@ -30,7 +30,7 @@ python main.py
 ```
   **7.** Ikuti petunjuk yang muncul pada program untuk memasukkan input yang diperlukan.   
   **Notes :** Jika ingin melakukan input menggunakan file. Jangan lupa untuk meng-upload/memasukkan filenya terlebih dahulu ke folder test  
-  **8.** Program akan menampilkan hasil solusi dan bobot hadiah optimal yang ditemukan.
+  **8.** Program akan menampilkan hasil solusi dan bobot hadiah optimal yang ditemukan. Solusi yang disimpan dalam bentuk file akan muncul di folder solution yang ada di dalam folder test.
 
 ## Author
 _**Nama: Shabrina Maharani**  
